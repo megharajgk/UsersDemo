@@ -14,6 +14,7 @@ public class DuplicateCharsAndCount {
 	
 	public static void duplicateCharsAndCountOfChars()
 	{
+		System.out.println("Git purpose");
 		String s ="Java Program";
 		System.out.println(s);
 		int count;
