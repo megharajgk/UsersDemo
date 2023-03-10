@@ -33,7 +33,7 @@ public class Convert1DArrayInto2D {
 			}
 			System.out.println();
 		}
-		System.out.println("Git purpose");
+		System.out.println("Git purpose1");
 	}
 
 }
