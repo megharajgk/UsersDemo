@@ -29,6 +29,7 @@ public class AAFinal {
 		}
 		String str=new String(ch);
 		System.out.println(str);
+		System.out.println("Display Alternate capital letters");
 	}
 	
 	public static void everyWordCaps(String s)
